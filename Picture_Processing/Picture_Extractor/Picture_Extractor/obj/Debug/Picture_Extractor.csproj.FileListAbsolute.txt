@@ -1,0 +1,7 @@
+E:\IT (Greenwich)\Yolov8\abc\Picture_Extractor\Picture_Extractor\bin\Debug\Picture_Extractor.exe.config
+E:\IT (Greenwich)\Yolov8\abc\Picture_Extractor\Picture_Extractor\bin\Debug\Picture_Extractor.exe
+E:\IT (Greenwich)\Yolov8\abc\Picture_Extractor\Picture_Extractor\bin\Debug\Picture_Extractor.pdb
+E:\IT (Greenwich)\Yolov8\abc\Picture_Extractor\Picture_Extractor\obj\Debug\Picture_Extractor.csproj.AssemblyReference.cache
+E:\IT (Greenwich)\Yolov8\abc\Picture_Extractor\Picture_Extractor\obj\Debug\Picture_Extractor.csproj.CoreCompileInputs.cache
+E:\IT (Greenwich)\Yolov8\abc\Picture_Extractor\Picture_Extractor\obj\Debug\Picture_Extractor.exe
+E:\IT (Greenwich)\Yolov8\abc\Picture_Extractor\Picture_Extractor\obj\Debug\Picture_Extractor.pdb

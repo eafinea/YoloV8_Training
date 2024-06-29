@@ -1,0 +1,8 @@
+path: "" #Input absolute path to the dataset here
+train: images/train
+val: images/valid
+test: images/test
+
+#Classes
+names:
+  0: hand_held_object
