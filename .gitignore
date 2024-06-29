@@ -1,0 +1,8 @@
+# Ignore virtual environment
+.venv/
+__pycache__/
+.idea/
+
+# Ignore predict results
+runs/predict2
+Data/
