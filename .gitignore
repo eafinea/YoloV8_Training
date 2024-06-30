@@ -5,5 +5,4 @@ __pycache__/
 
 # Ignore predict results
 runs/predict2
-Data/
 HOIST.zip/
