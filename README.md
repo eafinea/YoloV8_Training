@@ -12,7 +12,7 @@ A program to train/validate/test a YOLOV8 model
 
 # How to use
 
-## 0. Go to `config.yaml` or `config_test.yaml` and change the `path` parameter to the absolute path to the dataset folder (must be absolute or there will be errors).
+## 0. Go to `config.yaml` or `config_test.yaml` and change the `path` parameter to the absolute path to the dataset folder (must be absolute or there will be errors). Import `requirements.txt` for libraries used.
 
 ## 1. Run `main.py` and choose to train/validate/predict.
 
