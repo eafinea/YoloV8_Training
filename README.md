@@ -4,6 +4,7 @@ A program to train/validate/test a YOLOV8 model
 - Also included virtual environment used to run, and a requirements.txt to install necessary libraries
 - Run with `ultralytics` version 8.2.31 and `Pytorch` version 2.3.1 - CUDA 11.8
 - Made for `YOLOV8 Detection` task
+- Click [HERE](https://drive.google.com/drive/folders/1s-enTyxErsBaa1rL-_wFNld7F0JyeuBO?usp=sharing) to check for prediction output
 
 # Folder information
 - `Code`: A folder to store the codes used in the program
